@@ -1,0 +1,35 @@
+body{
+	background-color: white;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+header{
+	background-color: #3d3f36;
+	display: flex;
+	padding: 0px 5px;
+}
+
+a{
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 13px;
+    text-decoration: none;
+    border: none;
+}
