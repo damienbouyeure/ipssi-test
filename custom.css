@@ -1,0 +1,30 @@
+.footer{
+	position: absolute;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  background-color: #000000;
+	vertical-align: bottom;
+text-align: center;
+padding-bottom: 15px;
+
+
+}
+.footer a{
+text-decoration: none;
+color: white;
+font-weight: bold;
+font-size: 20px;
+
+}
+
+
+.footer li{
+	color: #ffffff;
+	display: inline-block;
+margin-bottom: 15px;	
+	text-align: center;
+	padding-right:  10px;
+	padding-left: 10px;
+	border-right: 1px solid #ffffff;
+}
