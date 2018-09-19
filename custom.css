@@ -8,11 +8,9 @@
 
 
 }
-.footer ul{
-	padding-bottom: 10px;
-}
 .footer li{
 	color: #ffffff;
 	display: inline-block;
 	margin-bottom: 15px;
+	text-align: center;
 }
